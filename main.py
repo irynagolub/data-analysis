@@ -80,7 +80,7 @@ index_to_region_name = {
 
 # Клас інтерфейсу веб-додатку
 class VHIApp(server.App):
-    title = "Data Visualization"
+    title = "NOAA Data Visualization"
 
     inputs = [{
         "type": 'dropdown',
